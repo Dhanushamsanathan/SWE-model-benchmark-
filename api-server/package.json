@@ -1,0 +1,13 @@
+{
+  "name": "swe-benchmark-api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run --watch server.ts",
+    "start": "bun run server.ts",
+    "server.ts": "bun run server.ts"
+  },
+  "dependencies": {
+    "bun": "^1.1.0"
+  }
+}
